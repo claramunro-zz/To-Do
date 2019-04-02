@@ -15,3 +15,8 @@ button {
 li {
     height: 30px;
 }
+
+
+* {
+    background-color: rgb(206, 26, 212);
+}
